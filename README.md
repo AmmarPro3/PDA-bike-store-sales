@@ -15,7 +15,13 @@ The files used in this project are:
 
 ## Requirements
 To complete this project, the following software requirements apply:
-* Juputyr Notebook or Google Colab
-* Puthon 
-* Pandas library 
+* Jupyter Notebook or Google Colab
+* Python 
+* Pandas library
+
+## Findings 
+Based on the analysis on this data I found:
+* The relationship between Unit_Cost and Unit_Price is almost linear
+* The highest category in term of sales is Accessories
+* The country that has the most sales is United States
 
