@@ -6,7 +6,7 @@
 </p>
 
 ## Overview 
-In this project, I used **Pndas** to explore data related to sales made in a bike store distributed in six continents: Australia, Canada, France, Germany, United Kingdom and United States. 
+In this project, I used **Pandas** to explore data related to sales made in a bike store between *April 2011* to *May 2016*. The store is distributed in six continents: Australia, Canada, France, Germany, United Kingdom and United States.
 
 ## Files used
 The files used in this project are:
